@@ -1,8 +1,8 @@
 {
     "tasks": [
-      { "description": "Ensimmäinen" },
-      { "description": "Toinen" },
-      { "description": "Kolmas" }
-    ]
+    { "text": "Ensimmäinen", "completed": false },
+    { "text": "Toinen", "completed": false },
+    { "text": "Kolmas", "completed": false }
+  ]
   }
   
